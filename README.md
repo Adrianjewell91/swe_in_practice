@@ -23,3 +23,7 @@ A year ago, however, the response would have been very different. That is: dive 
 Yet, at the same time, there is value in solving bugs because they fix the gaps in one’s knowledge. A good engineer is always growing, and that mean expanding one’s knowledge. Therefore, there is good reason to solve the bug, even if it doesn’t deserve the businesses time. Even my skip-level said one of his only regrets was not pursuing problems for their own sake, even if the value to the business wasn’t obvious. That really highlights that the eternal dilemma for the engineer is: what to work on? This is because the systems are too big for any one person, just like life…but that is a story for another time. 
 
 Getting the answers to that question is perhaps why tabulating the fruits of my labor over the past few years has suddenly become of great interest.  Certainly there are a host of material improvements, and in addition to that, my knowledge of computer science and software engineering has increased considerably. Additionally, my the tools for observing myself and the world around me have increased and developed. This is all good, and I am fortunate and grateful. Now, with regards to these things, some of them changes are concrete and measurable (such as net worth accumulation), and some of them remain qualitative (such as the degree of my improvement as an engineer). The hope is to make concrete, with examples, the qualitative changes.
+
+# May 8 2022
+
+
